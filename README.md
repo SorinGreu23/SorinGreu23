@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SorinGreu23
-- 📚 Student @ AC TUIASI
-- 👨‍💻 Junior Full Stack Developer
+- 👋 Hi, I’m Sorin!
+- 📚 Student @ FEAA - Informatica Economica
+- 👨‍💻 Full Stack Developer
 - 💻 Passionate about technology, always willing to learn anything about it
 
 <!---
