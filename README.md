@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sorin!
-- 📚 Student @ FEAA - Informatica Economica
+- 📚 Student @ FII
 - 👨‍💻 Full Stack Developer
 - 💻 Passionate about technology, always willing to learn anything about it
 
