@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" />
 </p>
 
-[![Sorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorinGreu23)](https://github.com/anuraghazra/github-readme-stats)
+[![Sorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorinGreu23&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SorinGreu23/SorinGreu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
