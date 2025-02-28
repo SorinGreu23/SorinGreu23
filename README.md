@@ -18,7 +18,7 @@
 </p>
 
 [![Sorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorinGreu23&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorinGreu23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorinGreu23&layout=compact&theme=merko)
 
 <!---
 SorinGreu23/SorinGreu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
