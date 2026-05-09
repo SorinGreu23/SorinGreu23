@@ -24,11 +24,11 @@
 
 #### Full Stack Developer @ Codefy Software
 *(December 2025 - Present)*
-* **Delivering HealthTech Solutions:** Developing multiple web and mobile applications for the medical sector, ensuring strict adherence to domain-specific requirements.
+* **Delivering HealthTech Solutions:** Developing and extending multiple web and mobile applications for the medical sector, ensuring strict adherence to domain-specific requirements.
 * **Cross-Platform Engineering:** Building responsive web portals with **Angular** and hybrid mobile applications using **Ionic**, ensuring a seamless user experience across devices.
 * **End-to-End Delivery:** Managing the full lifecycle for multiple clients simultaneously, from backend logic in **.NET** and **SQL Server** to automated deployments via **Azure DevOps**.
 
-#### Full Stack Developer @ Centric IT Solutions
+#### Full Stack Developer @ Centric IT Solutions Romania
 *(Jul 2022 - Dec 2025)*
 * **Designed scalable systems** using **.NET 9** and **Vertical Slice Architecture**, implementing event-driven microservices with **MassTransit** and **RabbitMQ**.
 * **Modernized legacy platforms** for 500+ users by migrating to **Angular 18** and **.NET 8**, significantly improving performance and long-term security.
@@ -42,7 +42,7 @@
 ### 💻 Frontend & Mobile
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
