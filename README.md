@@ -14,7 +14,7 @@
 
 ## 🧐 About Me
 - 🔭 I’m a **Student at FII** (Faculty of Computer Science) and a **Mid-Level Developer**.
-- 💻 I specialize in building scalable web & mobile apps using the **.NET Ecosystem**, **Angular**, and **Ionic**.
+- 💻 I specialize in building scalable web & mobile apps using the **.NET Ecosystem**, **Angular**, and **React Native**.
 - ⚙️ I focus on clean architecture, database optimization, and cloud deployment.
 - 🌱 Currently interested in: **Advanced Microservices Communication Patterns** & **Decentralized Identity Applications in Software Products**.
 
