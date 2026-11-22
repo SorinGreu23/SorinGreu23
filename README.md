@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I’m Sorin!</h1>
-  <h3>Mid-Level Full Stack Developer | Student @ FII</h3>
+  <h3>Mid-Level Software Engineer</h3>
   <p>
-    <i>Bridging academic theory with production-grade development.</i>
+    <i>Designing scalable and maintainable systems for enterprise platforms</i>
   </p>
 
   <a href="https://linkedin.com/in/sorin-greu/">
@@ -13,53 +13,48 @@
 <br />
 
 ## 🧐 About Me
-- 🔭 I’m a **Student at FII** (Faculty of Computer Science) and a **Mid-Level Developer**.
-- 💻 I specialize in building scalable web & mobile apps using the **.NET Ecosystem**, **Angular**, and **React Native**.
-- ⚙️ I focus on clean architecture, database optimization, and cloud deployment.
-- 🌱 Currently interested in: **Advanced Microservices Communication Patterns** & **Decentralized Identity Applications in Software Products**.
-
----
-
-## 💼 Work Experience
-
-#### Full Stack Developer @ Codefy Software
-*(December 2025 - Present)*
-* **Delivering HealthTech Solutions:** Developing and extending multiple web and mobile applications for the medical sector, ensuring strict adherence to domain-specific requirements.
-* **Cross-Platform Engineering:** Building responsive web portals with **Angular** and hybrid mobile applications using **Ionic**, ensuring a seamless user experience across devices.
-* **End-to-End Delivery:** Managing the full lifecycle for multiple clients simultaneously, from backend logic in **.NET** and **SQL Server** to automated deployments via **Azure DevOps**.
-
-#### Full Stack Developer @ Centric IT Solutions Romania
-*(Jul 2022 - Dec 2025)*
-* **Designed scalable systems** using **.NET 9** and **Vertical Slice Architecture**, implementing event-driven microservices with **MassTransit** and **RabbitMQ**.
-* **Modernized legacy platforms** for 500+ users by migrating to **Angular 18** and **.NET 8**, significantly improving performance and long-term security.
-* **Streamlined CI/CD pipelines** in **Azure DevOps** to accelerate deployment cycles and reduced infrastructure costs by optimizing test environments.
-* **Engineered complex data solutions** using **SQL Server** stored procedures and ensured system reliability through comprehensive integration testing with **TestContainers**.
+- 🎓 Graduated from the **Faculty of Computer Science (FII) - 2026** and currently working as a **Mid-Level Software Engineer**.
+- 💻 I specialize in building scalable web apps using **.NET**, **SQL Server**, **Azure** and many more.
+- 🌱 Currently focused on **Software Architecture & System Design**.
 
 ---
 
 ## 🛠 Technology Stack
 
-### 💻 Frontend & Mobile
+### 💻 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
 </p>
 
-### ☁️ DevOps & Tools
+### 🗄️ Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" alt="SQL Server"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+</p>
+
+### ☁️ Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" alt="Firebase"/>
+</p>
+
+### 🚀 DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40" alt="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40" alt="Azure DevOps"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/teamcity/teamcity-original.svg" width="40" height="40" alt="TeamCity"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/octopusdeploy/2F93E0" width="40" height="40" alt="Octopus Deploy"/>
 </p>
 
 ---
